@@ -8,6 +8,10 @@ My agent skills for Claude Code. Each skill is a folder with a `SKILL.md` that t
 
 - **[blog-writer](./skills/writing/blog-writer/SKILL.md)**: Writes personal blog posts from your own experience, in plain words, told as a story with honest results.
 
+### [Communication](./skills/communication/README.md)
+
+- **[brief-explanation](./skills/communication/brief-explanation/SKILL.md)**: Answers technical questions short and layered: the answer first, one idea per message, then "go deeper" teasers to pick from.
+
 ## Installation
 
 With [skills.sh](https://skills.sh):
