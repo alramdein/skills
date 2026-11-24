@@ -114,7 +114,7 @@ Unless the format rules say otherwise, return four separate parts:
 how-i-made-my-support-bot-stop-guessing
 ```
 
-**Excerpt:** 1 to 2 sentences, plain text, no Markdown.
+**Summary:** a catchy one- or two-liner about the post's main topic, plain text, no Markdown. Make the reader want to click: open with the problem or a question the post answers, then say what the post covers. Don't claim more than the post backs up.
 
 **Body:** wrapped in a markdown fence of four backticks, so the inner three-backtick code fences survive copy and paste:
 
