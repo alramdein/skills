@@ -114,7 +114,14 @@ Unless the format rules say otherwise, return four separate parts:
 how-i-made-my-support-bot-stop-guessing
 ```
 
-**Summary:** a catchy one- or two-liner about the post's main topic, plain text, no Markdown. Make the reader want to click: open with the problem or a question the post answers, then say what the post covers. Don't claim more than the post backs up.
+**Summary:** a catchy one- or two-liner about the post's main topic, plain text, no Markdown. Make the reader want to click:
+
+- First person, in the author's voice ("How I ...").
+- Name the problem and the concrete tools or tech involved, so the reader knows exactly what they'll get.
+- Hint at the post's twist or surprise, if it has one, instead of reading like a generic "we moved to X" post.
+- Don't claim more than the post backs up. If the post admits gaps, don't promise "always correct".
+
+Example: "How I handle high bursts of credit deductions while keeping balance checks fast. And why async Postgres writes still weren't enough, so I switched to Kafka and ClickHouse."
 
 **Body:** wrapped in a markdown fence of four backticks, so the inner three-backtick code fences survive copy and paste:
 
