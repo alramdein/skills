@@ -27,4 +27,4 @@ Used only when no format rules are found in the chat or in `format-rules/`.
 
 ## Output parts
 
-Return Title, Slug, Excerpt, and Body as described in SKILL.md.
+Return Title, Slug, Summary, and Body as described in SKILL.md.

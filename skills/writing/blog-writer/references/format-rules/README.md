@@ -7,6 +7,6 @@ Put your blog's format rules here, as one or more Markdown files. For example:
 - code block syntax and language tags
 - diagram rules (Mermaid, images, or none)
 - image handling (placeholders, captions, alt text)
-- which output parts to return (title, slug, excerpt, tags, body, ...)
+- which output parts to return (title, slug, summary, tags, body, ...)
 
 When any file other than this README exists here, it replaces `../default-format.md`. Rules here override the skill's defaults.
